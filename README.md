@@ -16,6 +16,7 @@
 
 - amd64 windows
 - amd64 linux
+- amd64 Mac
 
 使用 `-c path-to-xray` 自动patch二进制xray
 
