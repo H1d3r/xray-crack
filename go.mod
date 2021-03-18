@@ -1,3 +1,3 @@
-module github.com/zu1k/xray-crack
+module github.com/prettyrecon/xray-crack
 
 go 1.14
